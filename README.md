@@ -86,9 +86,9 @@ CodeRaiders/
  英語版UI（国際対応）
 
 👤 作者（Author）
-名前	Kato Shunsuke（例）
+名前	Shunsuke　Kato
 経歴	法人営業 → プログラミング転職活動中
-学習	ProgateでPython・JavaScript修了、独学中
+学習	ProgateでPython・JavaScript修了、react独学中
 SNS/GitHub	[GitHubリンク] / [Twitterなど]
 
 📮 ライセンス（License）
