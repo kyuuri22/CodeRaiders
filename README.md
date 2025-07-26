@@ -1,6 +1,7 @@
 # CodeRaiders
 
 #📘 Python学習ゲーム：CodeRaiders
+
 ##🎮 概要（Overview）
 CodeRaiders（コードレイダーズ） は、Pythonの基本文法を楽しく復習・実践できる学習型ゲームです。
 プレイヤーは「古代の遺跡」を探索する冒険者となり、Pythonコードを使って様々な謎解きや仕掛けを突破していきます。
